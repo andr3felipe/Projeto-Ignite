@@ -10,7 +10,7 @@
 * [GIF](#GIF)
 * [MADE WITH](#FEITO-COM-/-MADE-WITH)
 * [FEATURES](#FEATURES)
-* [LINK TO TEST THE PROJECT](##LINK-PARA-TESTE-DO-PROJETO-/-LINK-TO-TEST-THE-PROJECT)
+* [LINK TO TEST THE PROJECT](#A)
 
 
 # GIF
@@ -49,7 +49,7 @@
 
 
 
-## LINK PARA TESTE DO PROJETO / LINK TO TEST THE PROJECT
+## A
 <a href="https://papaya-baklava-0561c1.netlify.app/">Projeto Ignite</a>
 
 
