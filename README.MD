@@ -41,7 +41,7 @@
 <br>
 
 ### LINK PARA TESTE DO PROJETO
-<a href="https://papaya-baklava-0561c1.netlify.app/">PROJETO IGNITE</a>
+<a href="https://vermillion-raindrop-2f3578.netlify.app">PROJETO IGNITE</a>
 <br>
 <br>
 <br>
@@ -70,7 +70,7 @@
 <br>
 
 ### LINK TO TEST THE PROJECT
-<a href="https://papaya-baklava-0561c1.netlify.app/">IGNITE PROJECT</a>
+<a href="https://vermillion-raindrop-2f3578.netlify.app/">IGNITE PROJECT</a>
 <br>
 <br>
 
