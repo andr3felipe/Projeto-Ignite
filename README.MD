@@ -13,7 +13,7 @@
 * [LINK TO TEST THE PROJECT](#LINK-PARA-TESTE-DO-PROJETO-/-LINK-TO-TEST-THE-PROJECT)
 
 ### GIF
-<img src="src/assets/ignite.gif"/>
+<img src="src/assets/Ignite.gif"/>
 <br>
 <br>
 
@@ -39,9 +39,7 @@
 <br>
 
 ### LINK PARA TESTE DO PROJETO
-<a href="https://papaya-baklava-0561c1.netlify.app/">Projeto Ignite</a>
-<br>
-<br>
+<a href="https://papaya-baklava-0561c1.netlify.app/">PROJETO IGNITE</a>
 <br>
 <br>
 <br>
@@ -70,6 +68,6 @@
 <br>
 
 ### LINK TO TEST THE PROJECT
-<a href="https://papaya-baklava-0561c1.netlify.app/">Projeto Ignite</a>
+<a href="https://papaya-baklava-0561c1.netlify.app/">IGNITE PROJECT</a>
 
 
