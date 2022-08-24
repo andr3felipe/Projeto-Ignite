@@ -13,6 +13,7 @@
 * [LINK TO TEST THE PROJECT](#LINK-PARA-TESTE-DO-PROJETO-/-LINK-TO-TEST-THE-PROJECT)
 
 ### GIF
+![IMG](src/assets/Ignite.gif)
 <img src="src/assets/Ignite.gif"/>
 <br>
 <br>
