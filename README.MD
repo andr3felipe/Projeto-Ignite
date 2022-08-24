@@ -1,7 +1,7 @@
 # PORTUGUÊS
 ## Projeto-Ignite
 * [GIF](#GIF)
-* [FEITO COM](#FEITO-COM-|-MADE-WITH)
+* [FEITO COM](#FEITO-COM-&-MADE-WITH)
 * [FUNCIONALIDADES](#FUNCIONALIDADES)
 * [LINK PARA TESTE DO PROJETO](#LINK-PARA-TESTE-DO-PROJETO-/-LINK-TO-TEST-THE-PROJECT)
 
@@ -17,7 +17,7 @@
 <img src="src/assets/ignite.gif"/>
 
 
-## FEITO COM | MADE WITH
+## FEITO COM & MADE WITH
 <p>React</p>
 <p>Typescript</p>
 <p>CSS Modules</p>
