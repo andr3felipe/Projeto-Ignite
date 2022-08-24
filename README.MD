@@ -4,6 +4,7 @@
 * [FEITO COM](#FEITO-COM)
 * [FUNCIONALIDADES](#FUNCIONALIDADES)
 * [LINK PARA TESTE DO PROJETO](#LINK-PARA-TESTE-DO-PROJETO)
+* [YOUTUBE VIDEO](#YOUTUBE-VIDEO)
 
 # ENGLISH
 ## IGNITE PROJECT
@@ -11,9 +12,9 @@
 * [MADE WITH](#FEITO-COM-|-MADE-WITH)
 * [FEATURES](#FEATURES)
 * [LINK TO TEST THE PROJECT](#LINK-PARA-TESTE-DO-PROJETO-/-LINK-TO-TEST-THE-PROJECT)
+* [YOUTUBE VIDEO](#YOUTUBE-VIDEO)
 
 ### GIF
-![IMG](src/assets/Ignite.gif)
 <img src="src/assets/Ignite.gif"/>
 <br>
 <br>
@@ -70,5 +71,14 @@
 
 ### LINK TO TEST THE PROJECT
 <a href="https://papaya-baklava-0561c1.netlify.app/">IGNITE PROJECT</a>
+<br>
+<br>
+
+
+# YOUTUBE VIDEO
+#### Clique na imagem para assitir no youtube! 
+#### Click in the image to watch on youtube!
+
+[<img src="https://github.com/andr3felipe/Projeto-Ignite/blob/main/src/assets/ignite-youtube.png" width="50%">](https://www.youtube.com/watch?v=PBvu_LuRA9Q "Click to watch in youtube")
 
 
